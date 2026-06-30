@@ -9,6 +9,9 @@ html, body {
   overflow-x: hidden;
   overscroll-behavior-x: none;
   touch-action: pan-y;
+  background-color: #EEF2F3;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -687,7 +690,7 @@ h3 {
   bottom: 0;            /* flush at bottom */
   left: 0;
   right: 0;
-  height: 80px;
+  height: 100px;
   background: white;
   border-top: 1px solid #ddd;
   display: flex;
@@ -704,7 +707,7 @@ h3 {
   justify-content: center;
   text-decoration: none;
   color: #666;
-  font-size: 11px;
+  font-size: 24px;
 }
 
 .nav-icon {
@@ -1055,7 +1058,7 @@ background: linear-gradient(180deg, #1e2e3d 0%, #5a7a96 100%);
   transform: translateX(-50%);
   width: 100%;
   max-width: 430px;
-  height: 80px;
+  height: 100px;
   background: #fff;
   border-top: 1px solid #ddd;
   display: flex;
@@ -1267,7 +1270,7 @@ background: linear-gradient(180deg, #1e2e3d 0%, #5a7a96 100%);
   transform: translateX(-50%);
   width: 100%;
   max-width: 430px;
-  height: 80px;
+  height: 100px;
   background: #fff;
   border-top: 1px solid #ddd;
   display: flex;
@@ -1360,7 +1363,7 @@ background: linear-gradient(180deg, #1e2e3d 0%, #5a7a96 100%);
     #vehicles .nav a {
       text-decoration: none;
       color: #666;
-      font-size: 11px;
+      font-size: 24px;
       text-align: center;
     }
 

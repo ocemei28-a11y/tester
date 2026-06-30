@@ -4,6 +4,14 @@
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
+.phone {
+  width: 390px;   /* real mobile CSS width */
+  height: 844px;  /* typical iPhone height */
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
 
 html, body {
   overflow-x: hidden;
